@@ -26,6 +26,8 @@ In place of `"username"` and `"password"` you should pass username of your user 
 
 [dvdrental.zip](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
+[load database](https://www.postgresqltutorial.com/postgresql-getting-started/load-postgresql-sample-database/)
+
 [flask installation and virtual environment setup](https://flask.palletsprojects.com/en/1.1.x/installation/)
 
 ### How your directory should look like after instalation
