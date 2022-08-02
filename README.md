@@ -1,5 +1,5 @@
 
-# dvd rental database API
+# API for dvdrental database
 
 This is an API made in a few hours, user can choose records from table via queries.
 
