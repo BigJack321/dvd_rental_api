@@ -5,36 +5,38 @@ This is an API made in a few hours, user can choose records from table via queri
 
 ## Installation 
 
-To run this app you need to ensure that you have **flask** and **psycpog2** downloaded on your virtual machine. You also need to download dvd rental database and create database user with priviliges.
 
-Your virtual environment should be created inside project directory.
+###First of all download the code, and extract "dvd_rental_flask.zip", then in your terminal window paste following commands (make sure you are in dvd_rental_flask directory!):
 
-Steps you need to take to launch app, after your restarted your pc or started a new session:
-1. Type all of thoose into your terminal on linux/macOS
-- `source .venv/bin/activate`
+- `python3 -m venv .venv` - this piece of code creates virtual machine inside current directory
+- `source .venv/bin/activate` - activate virtual machine, something like this should appear before your username in terminal:
+![activated_venv](https://user-images.githubusercontent.com/96385701/182427011-c1acecfd-726f-49cc-ab50-ae4e25199bed.png)
+- `pip3 install -r requirements.txt` - install all requirements in this txt file
+And that's it in python for now.
+
+###Next up you have to download postgreSQL, there is the link to postgreSQL install tutorial:
+
+[install postgreSQL](https://www.postgresqltutorial.com/postgresql-getting-started/install-postgresql/)
+
+###If you have postgreSQL installed, load dvdrental database:
+
+[load database](https://www.postgresqltutorial.com/postgresql-getting-started/load-postgresql-sample-database/)
+
+###To check if installation is ok you can try following this article:
+
+[list tables](https://www.educba.com/postgresql-list-tables/)
+
+###Now open new terminal window and change directory to dvd_rental_flask that you downloaded earlier, and paste:
+- `source .venv/bin/activate` - activate virtual machine
 - `export FLASK_APP=app.py`
 - `export FLASK_ENV=development`
-- `export DB_USERNAME="username"`
-- `export DB_PASSWORD="password"`
-In place of `"username"` and `"password"` you should pass username of your user and password.
-2. When you typed all those commands, now you can start flask app:
-- `flask run`
-- copy the URL that appeard in your terminal window
+- `export DB_USERNAME="username"` - pass the username with required privileges
+- `export DB_PASSWORD="password"` - pass password connected to the username 
+- `flask run` - run flask application
+
+###Copy the URL that appeard in your terminal window and paste it to new tab in your browser
+
 ![image](https://user-images.githubusercontent.com/96385701/182358039-92a6ee57-9ad9-45e1-affd-61dff6e811d2.png)
 
-### Links to installation
-
-[dvdrental.zip](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
-
-[load database tutorial](https://www.postgresqltutorial.com/postgresql-getting-started/load-postgresql-sample-database/)
-
-[flask installation and virtual environment setup](https://flask.palletsprojects.com/en/1.1.x/installation/)
-
-### How your directory should look like after instalation
-
-![image](https://user-images.githubusercontent.com/96385701/182354937-7dbdf0f4-3219-45e5-94bc-59c5e7052b51.png)
-
-## How to form queries
-
-You can find documentation when you correctly run flask app, by clicking on *Documentation* header on base.html site.
+###Right now you can follow the **documentation** that appeared on the screen.
 
