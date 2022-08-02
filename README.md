@@ -20,7 +20,7 @@ In place of `"username"` and `"password"` you should pass username of your user 
 2. When you typed all those commands, now you can start flask app:
 - `flask run`
 - copy the URL that appeard in your terminal window
-- ![image](https://user-images.githubusercontent.com/96385701/182358039-92a6ee57-9ad9-45e1-affd-61dff6e811d2.png)
+![image](https://user-images.githubusercontent.com/96385701/182358039-92a6ee57-9ad9-45e1-affd-61dff6e811d2.png)
 
 
 ### Links to installation
