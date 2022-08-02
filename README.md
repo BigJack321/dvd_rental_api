@@ -9,7 +9,7 @@ To run this app you need to ensure that you have **flask** and **psycpog2** down
 
 ### Links to installation
 
-[dvdrental database zip](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+[dvdrental.zip](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
 [flask installation and virtual environment setup](https://flask.palletsprojects.com/en/1.1.x/installation/)
 
