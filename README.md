@@ -15,6 +15,10 @@ Your virtual environment should be created inside project directory.
 
 [flask installation and virtual environment setup](https://flask.palletsprojects.com/en/1.1.x/installation/)
 
+### How your directory should look like after instalation
+
+![image](https://user-images.githubusercontent.com/96385701/182354937-7dbdf0f4-3219-45e5-94bc-59c5e7052b51.png)
+
 ## How to form queries
 
 You can find documentation when you correctly run flask app, by clicking on *Documentation* header on base.html site.
