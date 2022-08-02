@@ -16,6 +16,12 @@ Steps you need to take to launch app, after your restarted your pc or started a 
 - `export FLASK_ENV=development`
 - `export DB_USERNAME="username"`
 - `export DB_PASSWORD="password"`
+In place of `"username"` and `"password"` you should pass username of your user and password.
+2. When you typed all those commands, now you can start flask app:
+- `flask run`
+- copy the URL that appeard in your terminal window
+- ![image](https://user-images.githubusercontent.com/96385701/182358039-92a6ee57-9ad9-45e1-affd-61dff6e811d2.png)
+
 
 ### Links to installation
 
