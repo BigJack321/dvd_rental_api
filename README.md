@@ -5,8 +5,7 @@ This is an API made in a few hours, user can choose records from table via queri
 
 ## Installation 
 
-
-###First of all download the code, and extract "dvd_rental_flask.zip", then in your terminal window paste following commands (make sure you are in dvd_rental_flask directory!):
+First of all download the code, and extract "dvd_rental_flask.zip", then in your terminal window paste following commands (make sure you are in dvd_rental_flask directory!):
 
 - `python3 -m venv .venv` - this piece of code creates virtual machine inside current directory
 - `source .venv/bin/activate` - activate virtual machine, something like this should appear before your username in terminal:
