@@ -13,15 +13,15 @@ First of all download the code, and extract "dvd_rental_flask.zip", then in your
 - `pip3 install -r requirements.txt` - install all requirements in this txt file
 And that's it in python for now.
 
-###Next up you have to download postgreSQL, there is the link to postgreSQL install tutorial:
+### Next up you have to download postgreSQL, there is the link to postgreSQL install tutorial:
 
 [install postgreSQL](https://www.postgresqltutorial.com/postgresql-getting-started/install-postgresql/)
 
-###If you have postgreSQL installed, load dvdrental database:
+### If you have postgreSQL installed, load dvdrental database:
 
 [load database](https://www.postgresqltutorial.com/postgresql-getting-started/load-postgresql-sample-database/)
 
-###To check if installation is ok you can try following this article:
+### To check if installation is ok you can try following this article:
 
 [list tables](https://www.educba.com/postgresql-list-tables/)
 
