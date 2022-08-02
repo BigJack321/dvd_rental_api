@@ -1,7 +1,7 @@
 
 # API for dvdrental database
 
-This is an API made in a few hours, user can choose records from table via queries.
+This is an API made in a weekend, user can choose records from table via queries.
 
 ## Installation 
 
