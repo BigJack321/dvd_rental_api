@@ -9,6 +9,14 @@ To run this app you need to ensure that you have **flask** and **psycpog2** down
 
 Your virtual environment should be created inside project directory.
 
+Steps you need to take to launch app, after your restarted your pc or started a new session:
+1. Type all of thoose into your terminal on linux/macOS
+- 'source .venv/bin/activate'
+- 'export FLASK_APP=app.py'
+- 'export FLASK_ENV=development'
+- 'export DB_USERNAME="username"'
+- 'export DB_PASSWORD="password"'
+
 ### Links to installation
 
 [dvdrental.zip](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
