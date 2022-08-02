@@ -22,9 +22,6 @@ In place of `"username"` and `"password"` you should pass username of your user 
 - copy the URL that appeard in your terminal window
 ![image](https://user-images.githubusercontent.com/96385701/182358039-92a6ee57-9ad9-45e1-affd-61dff6e811d2.png)
 
-![image](https://user-images.githubusercontent.com/96385701/182358555-46a172f7-b4b9-4edd-9e1a-9e298e4b19d1.png)
-
-
 ### Links to installation
 
 [dvdrental.zip](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
