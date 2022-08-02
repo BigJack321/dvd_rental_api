@@ -37,5 +37,5 @@ And that's it in python for now.
 
 ![image](https://user-images.githubusercontent.com/96385701/182358039-92a6ee57-9ad9-45e1-affd-61dff6e811d2.png)
 
-### Right now you can follow the **documentation** that appeared on the screen.
+### Right now you can follow the **documentation** that appeared in the tab.
 
