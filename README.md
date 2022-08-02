@@ -7,6 +7,8 @@ This is an API made in a few hours, user can choose records from table via queri
 
 To run this app you need to ensure that you have **flask** and **psycpog2** downloaded on your virtual machine. You also need to download dvd rental database and create database user with priviliges.
 
+Your virtual environment should be created inside project directory.
+
 ### Links to installation
 
 [dvdrental.zip](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
